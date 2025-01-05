@@ -12,11 +12,11 @@ Key Features:
 
 Key Visualizations:
 
-1.	Overall Satisfaction:** Bar charts and line graphs showing overall satisfaction scores and trends over time.
-2.	Service Quality:** Radar charts and bar charts analyzing customer ratings for cabin crew service, food & beverages, entertainment, comfort, and value.
-3.	Route Performance:** World map visualizing average satisfaction scores for different routes.
-4.	Aircraft Performance:** Bar charts comparing customer satisfaction across different aircraft models.
-5.	Temporal Trends:** Line graphs and seasonal trend analysis to identify patterns in customer sentiment.
+1.	Overall Satisfaction: Bar charts and line graphs showing overall satisfaction scores and trends over time.
+2.	Service Quality: Radar charts and bar charts analyzing customer ratings for cabin crew service, food & beverages, entertainment, comfort, and value.
+3.	Route Performance: World map visualizing average satisfaction scores for different routes.
+4.	Aircraft Performance: Bar charts comparing customer satisfaction across different aircraft models.
+5.	Temporal Trends: Line graphs and seasonal trend analysis to identify patterns in customer sentiment.
 
 How to Use:
 
